@@ -26,10 +26,12 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
  - Browser: [e.g. chrome, safari]
+ - WikiRace Lang: [e.g. de, en]
  - WikiRace Version: [e.g. 2663ec5, dd8366b]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser: [e.g. stock browser, safari]
+ - WikiRace Lang: [e.g. de, en]
  - WikiRace Version: [e.g. 2663ec5, dd8366b]
